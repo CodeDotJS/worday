@@ -5,11 +5,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codedotjs/wordy.git"
+    "url": "git+https://github.com/codedotjs/worday.git"
   },
   "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
   "bin": {
-    "wordy": "cli.js"
+    "worday": "cli.js"
   },
   "engines": {
     "node": ">=4"
