@@ -8,7 +8,7 @@
 <br>
 </h1>
 
-<p align="center">Daily dose of awesome words from command line!</p>
+<p align="center">The daily dose of awesome words from the command line!</p>
 
 ## Install
 ```
@@ -42,7 +42,6 @@ Note : no support of date for the flag -w or --wordthink
 ```
 
 ## Related
-- __[`worday-api`](https://github.com/codedotjs/worday-api)__ `: A simple API for worday tool.`
 
 - __[`kote`](https://github.com/CodeDotJS/kote)__ `: Daily dose of motivation from command line!`
 
